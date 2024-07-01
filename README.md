@@ -1,4 +1,4 @@
-## About me 
+## Hi there 👋
 
 I am Radomila, a software engineer and currently a full-time student pursuing a degree in Software Engineering and Big Data. 
 My interest lies in creating a friendly user interfaces and web applications using modern technologies.
