@@ -1,9 +1,28 @@
-## Hi there 👋
+# Hello World! 
 
-I am Radomila, a software engineer and currently a full-time student pursuing a degree in Software Engineering and Big Data. 
-My interest lies in creating a friendly user interfaces and web applications using modern technologies.
+My name is Radomila, a passionate software developer and soon-to be a software engineering graduate. 
 
-- I concentrate mainly on frontend development.
-- I'm currently learning backend development as well and improve my knowledge in TypeScript.
-- I'm a passionate learner - I love to learn and explore new technologies.
-- In my free time, I create a personal projects to try new technologies or make side projects for fun. 
+There is a few facts about me, to get me know a little better: 
+
+- I am finishing my masters degree at Unicorn University in Software Engineering and Big Data
+- My interest lies primarly in frontend development, but I am improving my skills in backend development as well
+- I am a passionate learner and enthusiastic about new technologies and trends
+- I like challenges and I am willing to learn
+- In my free time, I am improving my portfolio by building personal projects 
+
+## Technology stack 
+My toolkit includes the following:
+
+### Frontend development
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
+[![styled-components](https://img.shields.io/badge/styled--components-DB7093?logo=styledcomponents&logoColor=fff)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
+[![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#)
+
+
