@@ -50,7 +50,7 @@ __Tools__
 - Allows users to create, edit and manage their own blog posts
 - Focus on accessibility (semantic HTML, keyboard navigation, responsive design)
 
-**Tech stack:** TypeScript, Next.js, Firebase, Tailwind CSS
+**Tech stack:** TypeScript, Firebase, Next.js, RadixUI, Tailwind CSS
 
 ### __uuForester__  
 - Web application for managing hierarchical tree structures (nodes), focused on web performance
